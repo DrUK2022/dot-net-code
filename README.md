@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/TrainingsPK/Azure%20DevOps%20Training/_apis/build/status/DrUK2022.dot-net-code?branchName=azure-pipelines)](https://dev.azure.com/TrainingsPK/Azure%20DevOps%20Training/_build/latest?definitionId=1&branchName=azure-pipelines)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
